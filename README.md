@@ -3,7 +3,7 @@
 石墨文档匿名聊天楼备份
 
 ## 最新的石墨文档链接
-https://shimo.im/docs/xDcyhT6QKt86Dwqx
+https://shimo.im/docs/XYVp88tqpp3pxcCp
 
 ## 常见问题
 无论梯与否，都可能会出现需要reload的情况。这是网站本身和pdf文件并不完全兼容所导致。
