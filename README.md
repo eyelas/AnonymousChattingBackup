@@ -5,6 +5,8 @@
 ## 最新的石墨文档链接
 https://shimo.im/docs/XYVp88tqpp3pxcCp
 
+5.0:https://shimo.im/docs/HYkYPV3Yd8HxXq68/
+
 ## 常见问题
 无论梯与否，都可能会出现需要reload的情况。这是网站本身和pdf文件并不完全兼容所导致。
 
